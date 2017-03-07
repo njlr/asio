@@ -1,0 +1,13 @@
+{
+  "name": "boost-asio",
+  "dependencies": {
+    "boost-date-time": "1.63.0",
+    "boost-system": "1.63.0",
+    "boost-coroutine": "1.63.0",
+    "boost-utility": "1.63.0",
+    "boost-function": "1.63.0",
+    "boost-bind": "1.63.0",
+    "boost-config": "1.63.0",
+    "boost-regex": "1.63.0"
+  }
+}
